@@ -1,4 +1,4 @@
-<h1>Random Photos Collection</h1>
+<h1>Photo Gallery Website</h1>
 
 <img src="https://github.com/Selvi-Parasakthi-K/Ramdom-Photos-Collection/assets/125342019/26a169eb-ea85-48d0-8849-47745923657b" height="300px" width="500px" />
 
